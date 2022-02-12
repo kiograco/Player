@@ -1,0 +1,24 @@
+.header {
+  background: white;
+  position: fixed;
+  width: 100vw;
+  height: 128px;
+  left: 0;
+  bottom: 0;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.buttonControl{ 
+  background-color: transparent;
+  border: none;
+}
+.buttonControl img{
+  width: 64px;
+  height: 64px;
+}
+.play img{
+  width: 128px;
+  height: 128px;
+}

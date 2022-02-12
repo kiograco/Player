@@ -1,0 +1,89 @@
+@import "https://cdn.skypack.dev/normalize.css@8.0.1";
+@import "https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap";
+
+/* temp_stylePlugin:/tmp/2022112-90359-bew40v.ri71t.css */
+.header {
+  background: white;
+  position: fixed;
+  width: 100vw;
+  height: 128px;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonControl {
+  background-color: transparent;
+  border: none;
+}
+.buttonControl img {
+  width: 64px;
+  height: 64px;
+}
+.play img {
+  width: 128px;
+  height: 128px;
+}
+
+/* temp_stylePlugin:/tmp/2022112-90359-fysyg5.crqmf.css */
+.tracks {
+  height: 35px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+/* temp_stylePlugin:/tmp/2022112-90359-193bn5b.8etq.css */
+.container {
+  border-radius: 4px;
+  padding: 16px;
+  border: 1px solid #00000040;
+  margin-bottom: 15px;
+  background-color: white;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  font-size: 28px;
+  line-height: 33px;
+}
+.artist {
+  font-size: 22px;
+  line-height: 25.78px;
+  color: rgba(0, 0, 0, 0.45);
+  font-style: italic;
+  font-weight: normal;
+  width: 215px;
+}
+.cover {
+  width: 92px;
+}
+.info {
+  padding: 0px 8px;
+  height: 96px;
+}
+
+/* temp_stylePlugin:/tmp/2022112-90359-19pxltb.xbg8.css */
+.App {
+  font-family: Roboto;
+  padding: 1rem;
+  margin-bottom: 100px;
+}
+
+/* temp_stylePlugin:/tmp/2022112-90359-vgfj7r.0t6sa.css */
+body {
+  font-family: Roboto;
+  background: #f4f4f4;
+  font: 16px Roboto, sans-serif;
+  line-height: 1.2em;
+}
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}

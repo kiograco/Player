@@ -1,0 +1,31 @@
+.container{
+    border-radius:4px; 
+    padding:16px; 
+    border:1px solid #00000040;
+    margin-bottom: 15px; 
+    background-color:white;
+}
+.wrapper{
+    display:flex; 
+    align-items:center;
+    justify-content:center;
+}
+.title{
+    font-size: 28px;
+    line-height: 33px;
+}
+.artist{
+    font-size: 22px; 
+    line-height:25.78px;
+    color: rgba(0, 0, 0, 0.45); 
+    font-style: italic;
+    font-weight: normal;
+    width: 215px
+}
+.cover{
+    width:92px;
+}
+.info{
+    padding:0px 8px; 
+    height:96px;
+}
